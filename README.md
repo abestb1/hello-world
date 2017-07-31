@@ -6,3 +6,5 @@ Hello,
 My name is Adam.
 
 I am a Digital Designer.
+
+I am based in London.
